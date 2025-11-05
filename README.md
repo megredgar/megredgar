@@ -1,4 +1,10 @@
 ![Header](./github-header-banner.png)
+
+I'm a wildlife biologist and incoming PhD student at the University of Alberta. 
+My passion lies in understanding how birds respond to environmental change in the boreal forest.
+
+You can find out more here: https://megredgar.github.io/megedgar/
+
 <!--
 **megredgar/megredgar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
