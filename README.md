@@ -1,7 +1,7 @@
 ![Header](./github-header-banner.png)
 
 I'm a wildlife biologist and a new PhD student at the University of Alberta. 
-My passion lies in understanding how birds respond to environmental change in the boreal forest, but more broadly, conservation is at the heart of my work.
+My passion lies in understanding how birds respond to environmental change in the boreal forest, but more broadly, conservation is at the heart of it all. 
 
 You can find out more here: https://megredgar.github.io/megedgar/ 
 and here: https://www.linkedin.com/in/meganredgar/
