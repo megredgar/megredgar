@@ -1,4 +1,4 @@
-![Header](./github-header-banner.png)
+//![Header](./github-header-banner.png)//
 
 I'm a wildlife biologist and PhD student at the University of Alberta. 
 My passion lies in understanding how birds respond to environmental change in the boreal forest, but more broadly, conservation is at the heart of it all. 
